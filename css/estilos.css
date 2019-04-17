@@ -1,0 +1,57 @@
+
+
+
+h1 {
+	text-align:center;
+}
+
+
+
+h5 {
+	position: relative;
+	text-align:center;
+	top: 50px;
+}
+
+
+table {
+
+	
+
+	position: absolute;
+	left: 400px;
+	top: 200px;
+}
+
+img {
+	width: 200px;
+}
+
+footer {
+	position: absolute;
+	text-align: center;
+	left: 490px;
+    top: 550px;
+}
+
+#b {
+    position: absolute;
+	left: 520px;
+	top: 520px;
+}
+
+#logo {
+
+ width: 85px;
+ position: relative;
+ left: 375px;
+ top: -100px;
+}
+
+#kelp {
+	width: 160px;
+}
+
+#rodizio{
+	width: 250px;
+}
